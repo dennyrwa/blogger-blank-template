@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+    &lt;head&gt;
+      <meta charset='utf-8'/>
+      <meta content='5; url=https://rbrentcar.com' http-equiv='refresh'/>
+      <meta content='width=device-width, initial-scale=1' name='viewport'/>
+      <title><data:view.title.escaped/></title>
+      <b:include data='blog' name='all-head-content'/>
+    <style/>
+      <b:skin><![CDATA[]]></b:skin>
+    <!-- </head> -->
+  &lt;!--<head/>--&gt;
+    <body>
+      <b:section class='header' id='header' showaddelement='yes'/>
+      <img alt='klikada.com' height='135' src='https://rbrentcar.com/static/img/klikada-panjang.svg' width='220'/>
+      <b:section class='main' id='main' showaddelement='yes'/>
+      <b:section class='footer' id='footer' showaddelement='yes'/>
+  <!-- </body></html> -->
+</body>
+</html>
